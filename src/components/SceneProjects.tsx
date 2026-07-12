@@ -43,7 +43,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 1,
       section: "Foundation",
-      image: "/src/Webprojects/ZamboAgrimap.png",
+      image: "./src/Webprojects/ZamboAgrimap.png",
       title: "Agri-Map GIS",
       desc: "A GIS-powered agricultural platform to manage and visualize rice farming data across Zamboanga City. It enables local government units to track crop distribution and yield in real-time.",
       role: "Full-stack Developer",
@@ -54,7 +54,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 2,
       section: "Foundation",
-      image: "/src/Webprojects/wmsu-upress-project.png",
+      image: "./src/Webprojects/wmsu-upress-project.png",
       title: "Upress CMS",
       desc: "Academic publishing Content Management System designed specifically for WMSU. Streamlines the workflow from manuscript submission to final printing and distribution.",
       role: "Full-stack Developer",
@@ -65,7 +65,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 3,
       section: "Foundation",
-      image: "/src/Webprojects/simpleBanking.png",
+      image: "./src/Webprojects/simpleBanking.png",
       title: "Banking System",
       desc: "Secure transaction app developed during OJT experience. Features real-time balance updates, transaction history, and secure fund transfers between accounts.",
       role: "Full-stack Developer",
@@ -76,7 +76,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 4,
       section: "Latest",
-      image: "/src/Webprojects/Mi_Porfolios.png",
+      image: "./src/Webprojects/Mi_Porfolios.png",
       title: "Mi Portfolios",
       desc: "A personal portfolio hub built with modern UI standards. Showcases a high-performance architectural approach to personal branding for developers.",
       role: "Full-stack Developer",
@@ -87,7 +87,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 5,
       section: "Latest",
-      image: "/src/Webprojects/FashionGyrl.png",
+      image: "./src/Webprojects/FashionGyrl.png",
       title: "FashionGyrl Ecom",
       desc: "Luxury ecommerce experience featuring dynamic product management and responsive checkout system.",
       role: "Full-stack Developer",
@@ -98,7 +98,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 6,
       section: "Latest",
-      image: "/src/Webprojects/BayanihanUI.png",
+      image: "./src/Webprojects/BayanihanUI.png",
       title: "BayanihanUI 2.0",
       desc: "Comprehensive SaaS component library built with React for the Filipino developer community.",
       role: "Full-stack Developer",
@@ -109,7 +109,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 7,
       section: "Latest",
-      image: "/src/Webprojects/lifer_refuge.png",
+      image: "./src/Webprojects/lifer_refuge.png",
       title: "Life & Refuge",
       desc: "A web app you can visit to find a verse that will provide you guidance and peace.",
       role: "Full-stack Developer",
@@ -120,7 +120,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 8,
       section: "Latest",
-      image: "/src/Webprojects/htmlversion.png",
+      image: "./src/Webprojects/htmlversion.png",
       title: "BayanihanUI 1.0 html",
       desc: "A minimalist web app designed to help users discover verses that inspire guidance and calm. Built with simplicity in mind, it offers a smooth, distraction-free experience.",
       role: "Full-stack Developer",
@@ -131,7 +131,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 9,
       section: "Latest",
-      image: "/src/Webprojects/avelune-v-realestate-core.png",
+      image: "./src/Webprojects/avelune-v-realestate-core.png",
       title: "Avelune V-RealEstate 1.0",
       desc: "The definitive digital command center for global property collectors. Fusing high-fidelity architectural showcases with a sovereign financial analytics engine, designed to manage ultra-prime portfolios with absolute precision and privacy.",
       role: "Lead Systems Architect",
@@ -142,7 +142,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 10,
       section: "Capytech",
-      image: "/src/Webprojects/course_reminder.png",
+      image: "./src/Webprojects/course_reminder.png",
       title: "Course Reminder",
       desc: "A specialized Moodle plugin that sends automated reminder alerts and custom email triggers to students regarding upcoming coursework, learning milestones, and course expiration dates.",
       role: "Plugin Developer",
@@ -153,7 +153,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 11,
       section: "Capytech",
-      image: "/src/Webprojects/zoom_alarm.png",
+      image: "./src/Webprojects/zoom_alarm.png",
       title: "Zoom Alarm Reminder",
       desc: "LMS schedule enrichment tool syncing Moodle courses with Zoom's live meeting APIs to broadcast attention-grabbing sound and visual alarm popups to online cohorts right before their class kicks off.",
       role: "Plugin Developer",
@@ -164,7 +164,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 12,
       section: "Capytech",
-      image: "/src/Webprojects/scorm_extractor.png",
+      image: "./src/Webprojects/scorm_extractor.png",
       title: "SCORM Extractor",
       desc: "Automatic archive decompression and cataloging utility that safely parses SCORM interactive e-learning zip packages into compliant, direct structural schemas in Moodle course modules.",
       role: "Systems Engineer",
@@ -175,7 +175,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 13,
       section: "Capytech",
-      image: "/src/Webprojects/learning_library.png",
+      image: "./src/Webprojects/learning_library.png",
       title: "Learning Library",
       desc: "A centralized, high-density repository index inside Moodle allowing academic instructors to catalog, share, and reuse training documents, PDFs, videos, and SCORM modules easily across school departments.",
       role: "Full-stack Developer",
@@ -186,7 +186,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 14,
       section: "Capytech",
-      image: "/src/Webprojects/rate_instructor.png",
+      image: "./src/Webprojects/rate_instructor.png",
       title: "Rate Instructor Plugin",
       desc: "Micro-feedback rating instrument allowing student circles to evaluate lectures and leave swift, anonymous qualitative ratings right after finishing educational sessions.",
       role: "UI/UX & PHP Developer",
@@ -197,7 +197,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 15,
       section: "Capytech",
-      image: "/src/Webprojects/zoom_loader.png",
+      image: "./src/Webprojects/zoom_loader.png",
       title: "Zoom Loader Core",
       desc: "High-capacity server interface designed to coordinate large synchronous web conferencing rooms, handling batch API loader tokens and mitigating platform throttling across thousands of active students.",
       role: "Backend Developer",
@@ -208,7 +208,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 16,
       section: "Capytech",
-      image: "/src/Webprojects/dev_tools.png",
+      image: "./src/Webprojects/dev_tools.png",
       title: "Dev Tools Config",
       desc: "Internal infrastructure automation blueprints containing standard Docker Compose stacks, lint rules, and shell setups to provision unified dev and staging environments for the LMS development group.",
       role: "DevOps Engineer",
@@ -219,7 +219,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 17,
       section: "Capytech",
-      image: "/src/Webprojects/capytech_web.png",
+      image: "./src/Webprojects/capytech_web.png",
       title: "Capytech Company Website",
       desc: "The primary marketing and client gateway for Capytech, crafted with high-performance responsive styling to showcase corporate e-learning and custom software solution tiers.",
       role: "Frontend Specialist",
@@ -230,7 +230,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 18,
       section: "Capytech",
-      image: "/src/Webprojects/knowledge_base.png",
+      image: "./src/Webprojects/knowledge_base.png",
       title: "Capytech Knowledge Base",
       desc: "Internal team collaboration and wikified database platform designed to store proprietary plugin architectures, client-server deployment templates, and software security blueprints.",
       role: "Full-stack Developer",
@@ -241,7 +241,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 19,
       section: "Capytech",
-      image: "/src/Webprojects/js_resource.png",
+      image: "./src/Webprojects/js_resource.png",
       title: "Javascript Resource Dev",
       desc: "High-performance interactive HTML5 and canvas modules, micro-games, and animation templates created as standalone assets for embedded slide-based corporate compliance training.",
       role: "Frontend Game Developer",
@@ -252,7 +252,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 20,
       section: "Capytech",
-      image: "/src/Webprojects/money_system.png",
+      image: "./src/Webprojects/money_system.png",
       title: "Money System Gamification",
       desc: "Advanced training compliance incentive engine modeling virtual bank tokens and gamified reward systems within corporate learning paths to boost user training completion rates.",
       role: "Backend Systems Architect",
@@ -263,7 +263,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 21,
       section: "LocalLab",
-      image: "/src/Webprojects/footprints.png",
+      image: "./src/Webprojects/footprints.png",
       title: "Foot Prints Activity Tracker",
       desc: "An elegant activity and step-logging companion app designed to run entirely locally. Features simple browser state storage, step analysis graphs, and dynamic goal indicators.",
       role: "Independent Developer",
@@ -274,7 +274,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
     {
       id: 22,
       section: "LocalLab",
-      image: "/src/Webprojects/periodtracker.png",
+      image: "./src/Webprojects/periodtracker.png",
       title: "Sovereign Women's Period Tracker",
       desc: "A fully private, secure, and client-side menstrual calendar designed for women. Formulated with zero remote server tracking to protect critical health data, executing symptom recording and cycle forecasting entirely in offline browser state.",
       role: "Independent Developer",
