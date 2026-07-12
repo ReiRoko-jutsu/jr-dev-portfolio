@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Game-Style Portfolio",
+  "description": "A visually immersive, game-inspired storytelling portfolio showcasing skills as an interactive skill tree, projects as individual levels, and career milestones as achievements with HUD progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
