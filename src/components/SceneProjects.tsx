@@ -147,7 +147,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
       desc: "A specialized Moodle plugin that sends automated reminder alerts and custom email triggers to students regarding upcoming coursework, learning milestones, and course expiration dates.",
       role: "Plugin Developer",
       tech: ["PHP", "Moodle API", "MySQL", "Javascript"],
-      link: "https://capytech.com/",
+      link: "",
       accent: "blue"
     },
     {
@@ -158,7 +158,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
       desc: "LMS schedule enrichment tool syncing Moodle courses with Zoom's live meeting APIs to broadcast attention-grabbing sound and visual alarm popups to online cohorts right before their class kicks off.",
       role: "Plugin Developer",
       tech: ["PHP", "Moodle API", "Zoom API", "JS"],
-      link: "https://capytech.com/",
+      link: "",
       accent: "blue"
     },
     {
@@ -169,7 +169,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
       desc: "Automatic archive decompression and cataloging utility that safely parses SCORM interactive e-learning zip packages into compliant, direct structural schemas in Moodle course modules.",
       role: "Systems Engineer",
       tech: ["PHP", "SCORM", "XML Parser", "NodeJS"],
-      link: "https://capytech.com/",
+      link: "",
       accent: "emerald"
     },
     {
@@ -180,7 +180,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
       desc: "A centralized, high-density repository index inside Moodle allowing academic instructors to catalog, share, and reuse training documents, PDFs, videos, and SCORM modules easily across school departments.",
       role: "Full-stack Developer",
       tech: ["PHP", "Laravel", "Moodle Core", "MySQL"],
-      link: "https://capytech.com/",
+      link: "",
       accent: "blue"
     },
     {
@@ -191,7 +191,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
       desc: "Micro-feedback rating instrument allowing student circles to evaluate lectures and leave swift, anonymous qualitative ratings right after finishing educational sessions.",
       role: "UI/UX & PHP Developer",
       tech: ["PHP", "Moodle API", "AJAX", "CSS3"],
-      link: "https://capytech.com/",
+      link: "",
       accent: "yellow"
     },
     {
@@ -202,7 +202,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
       desc: "High-capacity server interface designed to coordinate large synchronous web conferencing rooms, handling batch API loader tokens and mitigating platform throttling across thousands of active students.",
       role: "Backend Developer",
       tech: ["PHP", "Moodle API", "Zoom REST API", "Redis"],
-      link: "https://capytech.com/",
+      link: "",
       accent: "emerald"
     },
     {
@@ -213,7 +213,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
       desc: "Internal infrastructure automation blueprints containing standard Docker Compose stacks, lint rules, and shell setups to provision unified dev and staging environments for the LMS development group.",
       role: "DevOps Engineer",
       tech: ["Docker", "Git", "ESLint", "Bash"],
-      link: "https://capytech.com/",
+      link: "",
       accent: "emerald"
     },
     {
@@ -224,7 +224,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
       desc: "The primary marketing and client gateway for Capytech, crafted with high-performance responsive styling to showcase corporate e-learning and custom software solution tiers.",
       role: "Frontend Specialist",
       tech: ["HTML5", "Sass", "JS", "WordPress"],
-      link: "https://capytech.com/",
+      link: "",
       accent: "blue"
     },
     {
@@ -235,7 +235,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
       desc: "Internal team collaboration and wikified database platform designed to store proprietary plugin architectures, client-server deployment templates, and software security blueprints.",
       role: "Full-stack Developer",
       tech: ["Laravel", "Markdown Parser", "MySQL", "Tailwind"],
-      link: "https://capytech.com/",
+      link: "",
       accent: "blue"
     },
     {
@@ -246,7 +246,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
       desc: "High-performance interactive HTML5 and canvas modules, micro-games, and animation templates created as standalone assets for embedded slide-based corporate compliance training.",
       role: "Frontend Game Developer",
       tech: ["Vanilla JS", "HTML5 Canvas", "CSS Animations"],
-      link: "https://capytech.com/",
+      link: "",
       accent: "yellow"
     },
     {
@@ -257,7 +257,7 @@ export default function SceneProjects({ stats, onExploreProject, onClaimProjectX
       desc: "Advanced training compliance incentive engine modeling virtual bank tokens and gamified reward systems within corporate learning paths to boost user training completion rates.",
       role: "Backend Systems Architect",
       tech: ["PHP", "Moodle API", "MySQL", "Tailwind CSS"],
-      link: "https://capytech.com/",
+      link: "",
       accent: "emerald"
     },
     {
